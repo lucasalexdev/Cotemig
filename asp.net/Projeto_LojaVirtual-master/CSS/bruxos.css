@@ -1,0 +1,67 @@
+﻿body {
+    background-image: url('../IMAGES/harry_potter_11-wallpaper-1920x1080.jpg');
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.titulo {
+    background-color: rgba(130, 36, 36, 0.2);
+    border: none;
+    border-radius: 2px;
+}
+
+.usuario {
+    color: rgb(130, 36, 36);
+    background-color: #FCD23F;
+    border: none;
+    height: 30px !important;
+    width: 320px;
+    margin-bottom: 20px;
+}
+
+.voltar {
+    color: rgb(130, 36, 36);
+    background-color: #FCD23F;
+    border: none;
+    height: 30px !important;
+    width: 320px;
+    margin-top: 20px;
+}
+
+.usuarios :hover {
+    background-color: #FCD23F;
+    border:none;
+}
+
+.legendas {
+    font-family: 'Microsoft JhengHei UI';
+    font-weight: 500;
+    color: darksalmon;
+}
+
+.salvar{
+    width:370px;
+  padding:0px !important;
+  margin:0px !important;
+}
+
+th {
+    height: 20px;
+    border: 1px solid #FCD23F;
+    color: darksalmon;
+}
+
+td {
+    height: 20px;
+    border: 1px solid #FCD23F;
+    color: darksalmon;
+}
+
+table{
+    height:100px !important;
+}
+
+a {
+    color: #FCD23F;
+}

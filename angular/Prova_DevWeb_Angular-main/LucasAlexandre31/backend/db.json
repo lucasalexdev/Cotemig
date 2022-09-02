@@ -1,0 +1,33 @@
+{
+  "cartoes": [
+
+    {
+      "nome": "Stardew Valley",
+      "numero": "59,50",
+      "validade": "02/2016",
+      "codigo": "151",
+      "id": 6
+    },
+    {
+      "nome": "Minecraft",
+      "numero": "114,99",
+      "validade": "11/2011",
+      "codigo": "632",
+      "id": 7
+    },
+    {
+      "nome": "Valorant",
+      "numero": "00,00",
+      "validade": "06/2020",
+      "codigo": "145",
+      "id": 8
+    },
+    {
+      "nome": "The Sims 4",
+      "numero": "159,90",
+      "validade": "05/2013",
+      "codigo": "252",
+      "id": 9
+    }
+  ]
+}
